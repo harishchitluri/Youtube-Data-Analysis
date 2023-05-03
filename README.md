@@ -1,4 +1,4 @@
-# Data Engineering YouTube Analysis Project by Sai Harish Chitluri
+# YouTube Analysis Project by Sai Harish Chitluri
 
 ## Overview
 
